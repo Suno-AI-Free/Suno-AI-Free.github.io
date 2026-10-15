@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Suno-AI-Free.github.io/sitemap.xml
